@@ -63,8 +63,6 @@ export STARSHIP_CONFIG=$SCRIPT_DIR/starship.toml
 
 
 ########################## alias and environment #############################
-export WINDOWS_HOME="/mnt/c/Users/kazup"
-
 #grep
 alias grep="rg"
 
